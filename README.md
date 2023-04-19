@@ -1,2 +1,2 @@
-# QTM-250-HW-4
-The repository containing content for the fourth and final homework assingment in QTM 250.
+#  Using Machine Learning to Analyze the Impact of Job Title and Base Pay on Overtime Pay
+This post outlines how a Machine Learning API developed by Google can be used to learn about the variables within a dataset. Specifically we used Auto ML to complete a regression analysis on the variables defined using BigQuery from a public dataset available on Google. The phases of this process include defining the dataset, training the machine learning model using regression, and analyzing the model to determine what it reveals about the variables put in to the model intially. 
