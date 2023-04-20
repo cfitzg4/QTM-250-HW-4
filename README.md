@@ -29,7 +29,7 @@ This post outlines how a Machine Learning API developed by Google can be used to
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Dataset is being kept [here](https://github.com/cfitzg4/QTM-250-HW-4/blob/main/pay_table.csv) within this repo.
-3. Data processing/transformation scripts are being kept [here]()
+3. Data processing/transformation output are being kept [here](https://github.com/cfitzg4/QTM-250-HW-4/blob/main/Pay_ml%20-%20Sheet1.csv)
 4. The visualizations in the final report are being kept [here](https://github.com/cfitzg4/QTM-250-HW-4/tree/main/image)
 
 
