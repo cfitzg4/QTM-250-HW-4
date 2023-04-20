@@ -12,8 +12,10 @@ This post outlines how a Machine Learning API developed by Google can be used to
 * Regression Analysis
 
 ### Technologies
-* Machine Learning APIs
-* Google Cloud Platform
+* Google Cloud Console
+* Google Cloud Machine Learning Vertex AI API
+* Google Storage API
+* Google Cloud Bigquery
 * Draw.io
 
 ## Needs of this project
